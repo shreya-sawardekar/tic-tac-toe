@@ -70,7 +70,9 @@ body {
   text-align: center;
   width: 34px;
 }
-
+.board-row {
+  width: 112px;
+}
 .board-row:after {
   clear: both;
   content: "";
